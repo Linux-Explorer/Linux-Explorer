@@ -4,12 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linux-explorer&label=Profile%20views&color=0e75b6&style=flat" alt="linux-explorer" /> </p>
 
-- 🌱 I’m currently learning **AWS**
-
-- 📫 How to reach me **viveklakhan62@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
